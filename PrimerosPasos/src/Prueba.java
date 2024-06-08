@@ -1,6 +1,4 @@
 
-import java.util.Locale;
-import java.util.Scanner;
 
 /*
  * En esta clase veremos como trabajan los paquetes de java y 
@@ -12,11 +10,13 @@ import java.util.Scanner;
 public class Prueba {
     public static void main(String[] args) {
 
-        String nombre;
+       /*
+       String nombre;
 
         Scanner miObjeto;
 
         Locale miObjeto2;
+       */ 
 
     }
 
