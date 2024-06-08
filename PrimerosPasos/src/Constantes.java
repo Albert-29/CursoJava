@@ -16,8 +16,8 @@ public class Constantes {
          * Inicializando las constantes con la palabra reservada
          * final al inico de la sentencia.
          */
-        final int c;
-        c=7;
+        //final int c;
+        //c=7;
 
         final double apulgadas = 2.54;
 
